@@ -228,7 +228,9 @@ section {
   width: 8rem;
   border-radius: 2rem;
 }
-
+#avatar{
+  text-shadow: 10px 10px;
+}
 .btn-color-1,
 .btn-color-2 {
   border: rgb(53, 53, 53) 0.1rem solid;
@@ -259,6 +261,15 @@ section {
 
 .btn-container {
   gap: 1rem;
+}
+
+#class-1{
+  background-color: rgb(255, 255, 255);
+  color: rgb(53, 53, 53);
+}
+
+.details-container color-container:hover {
+  background-color: bisque;
 }
 
 /* ABOUT SECTION */
