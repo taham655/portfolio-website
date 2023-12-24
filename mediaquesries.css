@@ -69,12 +69,15 @@
     flex-wrap: wrap;
   }
   .contact-info-container {
-    margin: 0;
+    margin: 0 10;
   }
   .contact-info-container p,
   .nav-links li a {
     font-size: 1rem;
+    display: none;
+
   }
+  /* .contact-info-container  */
   .experience-sub-title {
     font-size: 1.25rem;
   }
